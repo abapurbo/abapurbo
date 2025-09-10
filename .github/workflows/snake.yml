@@ -12,7 +12,6 @@ on:
 
 
 
-  # Allow manual triggering of the workflow
 
   workflow_dispatch:
 
