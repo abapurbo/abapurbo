@@ -1,24 +1,94 @@
-# 💫 About Me:
- ## 👋 Hi, I'm Apurbo Sarker  <br>### 💻 Front-End Developer | MERN Stack Enthusiast  <br><br>I’m a passionate **Front-End Developer** specializing in **React.js, JavaScript, and Tailwind CSS**.  <br>I enjoy building **clean, responsive, and user-friendly web applications** with modern UI/UX practices.<br><br>💡 Skilled in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and experienced in creating **scalable, maintainable, and efficient solutions**.<br><br>🎯 I love **problem-solving, improving UX, and learning new technologies**.  <br>Currently, I’m enhancing my skills through **real-world projects, Firebase authentication, and advanced React patterns** to grow as a full-stack software engineer.<br><br>🌱 Always eager to collaborate on **innovative web applications** and contribute to **open-source projects**.<br>
+<!-- ===================== -->
+<!--     DESIGNATION      -->
+<!-- ===================== -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Front-End%20Developer-1E1E1E?style=for-the-badge&logo=react&logoColor=white" />
+</h2>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577638051677) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurbo-sarker-02ab4a34b/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absarker238@gmail.com)
+<!-- ===================== -->
+<!--       ABOUT ME        -->
+<!-- ===================== -->
+<h2 align="center">👋 Hi, I'm Apurbo Sarker</h2>
 
+<p align="center">
+  💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br>
+  I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br>
+  <br>
+  💡 Skilled in the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js) and experienced in creating <strong>scalable, maintainable, and efficient solutions</strong>.<br>
+  🎯 Passionate about <strong>problem-solving, UX improvement, and learning new technologies</strong>.<br>
+  🌱 Currently enhancing skills with <strong>Firebase authentication, advanced React patterns, and real-world projects</strong>.<br>
+  🚀 Always eager to collaborate on <strong>innovative web applications</strong> and contribute to <strong>open-source projects</strong>.
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-<div class="flex gap-4 ">
- ![](https://github-readme-stats.vercel.app/api?username=abapurbo&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abapurbo&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
+<br/>
 
+<!-- ===================== -->
+<!--       SOCIALS         -->
+<!-- ===================== -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/apurbo-sarker-02ab4a34b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:absarker238@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61577638051677" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== -->
+<!--       TECH STACK      -->
+<!-- ===================== -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,reactrouter,reactquery" alt="Frontend Skills" />
+  <br><br>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+  <br><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm" alt="Tools" />
+</p>
+
+<br/>
+
+<!-- ===================== -->
+<!--       GITHUB STATS    -->
+<!-- ===================== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abapurbo&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="380" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abapurbo&theme=dark&hide_border=true" width="380" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="760" />
+</p>
+
+<br/>
+
+<!-- ===================== -->
+<!--     TOP REPOS         -->
+<!-- ===================== -->
+<h2 align="center">🔝 Top Contributed Repos</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="760" />
+</p>
+
+<br/>
+
+<!-- ===================== -->
+<!--       THANK YOU       -->
+<!-- ===================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+💼;Let's+Connect!;" />
+</h1>
