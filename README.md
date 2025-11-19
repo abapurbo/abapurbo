@@ -2,13 +2,14 @@
 <!--     DESIGNATION      -->
 <!-- ===================== -->
 <!-- Name Typing Effect -->
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+👋;I'm+Apurbo+Sarker" alt="Typing SVG" />
+<h1 style="text-align: left; margin: 0; padding: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=false&vCenter=true&width=600&height=70&duration=3000&lines=Hello+👋;I'm+Apurbo+Sarker" alt="Typing SVG" />
 </h1>
 
 <!-- Static Designation -->
-<h3 align="left">Front-End Developer | MERN Stack Enthusiast</h3>
+<h3 style="text-align: left; margin: 0; padding: 0;">Front-End Developer | MERN Stack Enthusiast</h3>
 <br/>
+
 
 <!-- ===================== -->
 <!--       ABOUT ME        -->
