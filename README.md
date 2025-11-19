@@ -50,9 +50,9 @@
 
 <!-- ====================== CONNECT WITH ME ====================== -->
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="start">🌐 Connect with Me</h2>
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/apurbo-sarker-02ab4a34b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -65,13 +65,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 
