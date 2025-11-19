@@ -10,28 +10,41 @@
 <!-- ===================== -->
 <!--       ABOUT ME        -->
 <!-- ===================== -->
+<!-- ====================== ABOUT ME SECTION ====================== -->
+
 <h2 align="center">About Me</h2>
 
-<p align="justify">
-  💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br>
-  I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br>
-  <br>
-  💡 Skilled in the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js) and experienced in creating <strong>scalable, maintainable, and efficient solutions</strong>.<br>
-  🎯 Passionate about <strong>problem-solving, UX improvement, and learning new technologies</strong>.<br>
-  🌱 Currently enhancing skills with <strong>Firebase authentication, advanced React patterns, and real-world projects</strong>.<br>
-  🚀 Always eager to collaborate on <strong>innovative web applications</strong> and contribute to <strong>open-source projects</strong>.
+<p align="center">
+  💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br/>
+  I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using 
+  <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/><br/>
+
+  💡 Skilled in the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js) and experienced in creating 
+  <strong>scalable, maintainable, and efficient solutions</strong>.<br/>
+  
+  🎯 Passionate about <strong>problem-solving, UX improvement, and learning new technologies</strong>.<br/>
+
+  🌱 Currently enhancing skills with <strong>Firebase authentication, advanced React patterns, and real-world projects</strong>.<br/>
+
+  🚀 Always eager to collaborate on <strong>innovative web applications</strong> and contribute to 
+  <strong>open-source projects</strong>.
 </p>
 
 <br/>
-## 🔥 What I'm Currently Doing
 
-- 🌱 I’m learning and improving my **React** and **JavaScript** skills  
-- 🎨 I’m practicing **UI design** and building responsive user interfaces  
-- 🧩 I’m exploring how to create **reusable components** in React  
-- 💼 I’m working on small frontend projects to improve my problem-solving  
-- 🚀 I’m learning basics of the **MERN Stack** step by step  
-- 🛠️ I’m practicing Tailwind CSS to build fast and modern layouts  
-- 📚 I’m focusing on improving clean code and better folder structure  
+<!-- ====================== CURRENT WORK SECTION ====================== -->
+
+<h2 align="center">🔥 What I'm Currently Doing</h2>
+
+<p align="center">
+  🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills<br/>
+  🎨 Practicing <strong>UI design</strong> and building responsive interfaces<br/>
+  🧩 Exploring how to create <strong>reusable components</strong> in React<br/>
+  💼 Working on small frontend projects to boost problem-solving<br/>
+  🚀 Learning basics of the <strong>MERN Stack</strong> step by step<br/>
+  🛠️ Practicing <strong>Tailwind CSS</strong> for fast and modern layouts<br/>
+  📚 Focusing on writing <strong>clean, structured, and maintainable code</strong>
+</p>
 
 
 <!-- ===================== -->
