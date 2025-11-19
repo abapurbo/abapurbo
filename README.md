@@ -36,15 +36,16 @@
 
 <h2 align="start">🔥 What I'm Currently Doing</h2>
 
-<p align="start">
- - 🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills<br/>
- - 🎨 Practicing <strong>UI design</strong> and building responsive interfaces<br/>
- - 🧩 Exploring how to create <strong>reusable components</strong> in React<br/>
- - 💼 Working on small frontend projects to boost problem-solving<br/>
- - 🚀 Learning basics of the <strong>MERN Stack</strong> step by step<br/>
- - 🛠️ Practicing <strong>Tailwind CSS</strong> for fast and modern layouts<br/>
- - 📚 Focusing on writing <strong>clean, structured, and maintainable code</strong>
-</p>
+<ul align="start">
+  <li>🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills</li>
+  <li>🎨 Practicing <strong>UI design</strong> and building responsive interfaces</li>
+  <li>🧩 Exploring how to create <strong>reusable components</strong> in React</li>
+  <li>💼 Working on small frontend projects to boost problem-solving</li>
+  <li>🚀 Learning basics of the <strong>MERN Stack</strong> step by step</li>
+  <li>🛠️ Practicing <strong>Tailwind CSS</strong> for fast and modern layouts</li>
+  <li>📚 Focusing on writing <strong>clean, structured, and maintainable code</strong></li>
+</ul>
+
 
 
 <!-- ===================== -->
