@@ -17,7 +17,7 @@
 <p align="start">
   💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br/>
   I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using 
-  <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/><br/>
+  <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/>
 
   💡 Skilled in the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js) and experienced in creating 
   <strong>scalable, maintainable, and efficient solutions</strong>.<br/>
@@ -48,23 +48,32 @@
 
 
 
-<!-- ===================== -->
-<!--       SOCIALS         -->
-<!-- ===================== -->
+<!-- ====================== CONNECT WITH ME ====================== -->
+
 <h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/apurbo-sarker-02ab4a34b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp; <!-- Adds spacing between badges -->
   <a href="mailto:absarker238@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/profile.php?id=61577638051677" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  &nbsp;
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
-<br/>
 
 <!-- ===================== -->
 <!--       TECH STACK      -->
