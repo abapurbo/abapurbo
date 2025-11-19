@@ -12,9 +12,9 @@
 <!-- ===================== -->
 <!-- ====================== ABOUT ME SECTION ====================== -->
 
-<h2 align="start">About Me</h2>
+<h2 align="left">About Me</h2>
 
-<p align="start">
+<p align="left">
   💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br/>
   I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using 
   <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/>
@@ -33,9 +33,9 @@
 
 <!-- ====================== CURRENT WORK SECTION ====================== -->
 
-<h2 align="start">🔥 What I'm Currently Doing</h2>
+<h2 align="left">🔥 What I'm Currently Doing</h2>
 
-<ul align="start">
+<ul align="left">
   <li>🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills</li>
   <li>🎨 Practicing <strong>UI design</strong> and building responsive interfaces</li>
   <li>🧩 Exploring how to create <strong>reusable components</strong> in React</li>
@@ -49,9 +49,9 @@
 
 <!-- ====================== CONNECT WITH ME ====================== -->
 
-<h2 align="start">🌐 Connect with Me</h2>
+<h2 align="left">🌐 Connect with Me</h2>
 
-<p align="start">
+<p align="left">
   <a href="https://www.linkedin.com/in/apurbo-sarker-02ab4a34b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -70,16 +70,25 @@
 <!-- ===================== -->
 <!--       TECH STACK      -->
 <!-- ===================== -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,reactrouter,reactquery" alt="Frontend Skills" />
-  <br><br>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-  <br><br>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm" alt="Tools" />
+<h2 align="left">🛠️ Tech Stack & Tools</h2>
+<p align="left">
+  <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" / > -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+</p>
 </p>
 
 <br/>
