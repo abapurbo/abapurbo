@@ -30,7 +30,6 @@
   <strong>open-source projects</strong>.
 </p>
 
-<br/>
 
 <!-- ====================== CURRENT WORK SECTION ====================== -->
 
