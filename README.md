@@ -88,12 +88,39 @@
 <!--      GITHUB STATS     -->
 <!-- ===================== -->
 <h2 align="center">📊 My GitHub Stats</h2>
-<div align="center">
-   <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" width="100%" />
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" 
+    height="180" 
+    alt="GitHub Streak Stats"
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
+    height="150" 
+    alt="Top Languages"
+  />
+
+  <!-- Top Contributed Repositories -->
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true"  
+    alt="Top Contributed Repos"
+    width="760"
+  />
+
+  <!-- Profile Summary Card -->
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" 
+    width="100%" 
+    alt="Profile Summary Card"
+  />
+
 </div>
+
 
 <!-- ===================== -->
 <!--      TOP REPOS        -->
