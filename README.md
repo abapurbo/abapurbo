@@ -90,11 +90,20 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-
-  <!-- GitHub Streak -->
- 
-  <!-- Most Used Languages -->
- 
+<div>
+   <!-- GitHub Streak -->
+   <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" 
+    height="180" 
+    alt="GitHub Streak Stats"
+  />
+<!-- Most Used Languages -->
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
+    height="150" 
+    alt="Top Languages"
+  />
+</div>
 
   <!-- Top Contributed Repositories -->
   <img 
