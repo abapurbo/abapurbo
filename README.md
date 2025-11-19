@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.ibb.co.com/gbz7cyJw/Biru-Fotosentris-Programmer-Linked-In-Banner.png" alt="banner image"/>
+  <img src="https://i.ibb.co.com/gbz7cyJw/Biru-Fotosentris-Programmer-Linked-In-Banner.png" alt="banner image" width="100%"/>
 </div>
 
 <!-- ===================== -->
