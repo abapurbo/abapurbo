@@ -92,18 +92,9 @@
 <div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
   <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" 
-    height="180" 
-    alt="GitHub Streak Stats"
-  />
-
+ 
   <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
-    height="150" 
-    alt="Top Languages"
-  />
+ 
 
   <!-- Top Contributed Repositories -->
   <img 
@@ -121,14 +112,6 @@
 
 </div>
 
-
-<!-- ===================== -->
-<!--      TOP REPOS        -->
-<!-- ===================== -->
-<!-- <h2 align="center">🔝 Top Contributed Repositories</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="760" />
-</p> -->
 
 <!-- ===================== -->
 <!--        THANK YOU      -->
