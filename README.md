@@ -1,7 +1,7 @@
 <!-- ===================== -->
 <!--       DESIGNATION      -->
 <!-- ===================== -->
-h1 align="center">Hi 👋, I'm Apurbo Sarker</h1>
+<h1 align="center">Hi 👋, I'm Apurbo Sarker</h1>
 <h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -89,6 +89,7 @@ h1 align="center">Hi 👋, I'm Apurbo Sarker</h1>
 <!-- ===================== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
+   <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="760" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" width="100%" />
@@ -97,10 +98,10 @@ h1 align="center">Hi 👋, I'm Apurbo Sarker</h1>
 <!-- ===================== -->
 <!--      TOP REPOS        -->
 <!-- ===================== -->
-<h2 align="center">🔝 Top Contributed Repositories</h2>
+<!-- <h2 align="center">🔝 Top Contributed Repositories</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="760" />
-</p>
+</p> -->
 
 <!-- ===================== -->
 <!--        THANK YOU      -->
