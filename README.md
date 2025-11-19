@@ -1,8 +1,14 @@
 <!-- ===================== -->
 <!--     DESIGNATION      -->
 <!-- ===================== -->
-<!-- <h2 align="center">
-  <img src="https://img.shields.io/badge/Front-End%20Developer-1E1E1E?style=for-the-badge&logo=react&logoColor=white" />
+<!-- Name Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+👋;I'm+Apurbo+Sarker" alt="Typing SVG" />
+</h1>
+
+<!-- Designation Typing Effect -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Front-End+Developer+|+MERN+Stack+Enthusiast" alt="Typing SVG" />
 </h2>
 
 <br/> -->
@@ -29,7 +35,7 @@
   🚀 Always eager to collaborate on <strong>innovative web applications</strong> and contribute to 
   <strong>open-source projects</strong>.
 </p>
-
+<br/>
 
 <!-- ====================== CURRENT WORK SECTION ====================== -->
 
@@ -46,7 +52,7 @@
 </ul>
 
 
-
+<br/>
 <!-- ====================== CONNECT WITH ME ====================== -->
 
 <h2 align="left">🌐 Connect with Me</h2>
@@ -65,7 +71,7 @@
   </a>
   &nbsp;
 </p>
-
+<br/>
 
 <!-- ===================== -->
 <!--       TECH STACK      -->
@@ -90,18 +96,11 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
 </p>
-
+<br/>
 <!-- ===================== -->
 <!--       GITHUB STATS    -->
 <!-- ===================== -->
 <h2 align="center">📊 My Stats</h2>
-
-<div align="center">
-  <a href="https://wakatime.com/@abapurbo">
-    <img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
