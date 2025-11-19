@@ -12,22 +12,20 @@
 <!-- ===================== -->
 <!--        ABOUT ME       -->
 <!-- ===================== -->
-<h2 align="left">About Me</h2>
+<!-- ===================== -->
+<!--        ABOUT ME       -->
+<!-- ===================== -->
+<h2 align="left">💼 About Me</h2>
 <p align="left">
-  💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br/>
-  I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using 
-  <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/><br/>
+  I am an enthusiastic and innovative <strong>Front-End Developer</strong> with a passion for building <strong>clean, responsive, and user-friendly web applications</strong> using the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js). My goal is to create technologies that make life simpler, more enjoyable, and meaningful through thoughtful design and efficient development.<br/><br/>
 
-  💡 Skilled in the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js) and experienced in creating 
-  <strong>scalable, maintainable, and efficient solutions</strong>.<br/><br/>
+  ⚙️ I enjoy tackling challenges and crafting simple, elegant solutions—whether it's designing a complex layout, integrating APIs, or optimizing performance. This problem-solving mindset drives my work and learning every day.<br/><br/>
 
-  🎯 Passionate about <strong>problem-solving, UX improvement, and learning new technologies</strong>.<br/><br/>
+  💡 I believe great software and web applications come from empathy: understanding user problems and delivering solutions that are not only functional but also delightful and intuitive to use.<br/><br/>
 
-  🌱 Currently enhancing skills with <strong>Firebase authentication, advanced React patterns, and real-world projects</strong>.<br/><br/>
-
-  🚀 Always eager to collaborate on <strong>innovative web applications</strong> and contribute to 
-  <strong>open-source projects</strong>.
+  🚀 I am always eager to collaborate on <strong>innovative projects</strong>, learn new technologies, and contribute to <strong>open-source initiatives</strong>.
 </p>
+---
 
 <!-- ===================== -->
 <!--   CURRENT WORK        -->
