@@ -1,10 +1,8 @@
 
 
-<p align="center">
-
-    <img src="https://i.ibb.co.com/gbz7cyJw/Biru-Fotosentris-Programmer-Linked-In-Banner.png" alt="mern" width="100%">
-
-</p>
+<div align="center">
+   <img src="./bannerImg/github-banner-image.png"/>
+</div>
 <!-- ===================== -->
 <!--       DESIGNATION      -->
 <!-- ===================== -->
