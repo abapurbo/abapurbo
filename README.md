@@ -12,9 +12,9 @@
 <!-- ===================== -->
 <!-- ====================== ABOUT ME SECTION ====================== -->
 
-<h2 align="center">About Me</h2>
+<h2 align="start">About Me</h2>
 
-<p align="center">
+<p align="start">
   💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br/>
   I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using 
   <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/><br/>
@@ -34,16 +34,16 @@
 
 <!-- ====================== CURRENT WORK SECTION ====================== -->
 
-<h2 align="center">🔥 What I'm Currently Doing</h2>
+<h2 align="start">🔥 What I'm Currently Doing</h2>
 
-<p align="center">
-  🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills<br/>
-  🎨 Practicing <strong>UI design</strong> and building responsive interfaces<br/>
-  🧩 Exploring how to create <strong>reusable components</strong> in React<br/>
-  💼 Working on small frontend projects to boost problem-solving<br/>
-  🚀 Learning basics of the <strong>MERN Stack</strong> step by step<br/>
-  🛠️ Practicing <strong>Tailwind CSS</strong> for fast and modern layouts<br/>
-  📚 Focusing on writing <strong>clean, structured, and maintainable code</strong>
+<p align="start">
+ - 🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills<br/>
+ - 🎨 Practicing <strong>UI design</strong> and building responsive interfaces<br/>
+ - 🧩 Exploring how to create <strong>reusable components</strong> in React<br/>
+ - 💼 Working on small frontend projects to boost problem-solving<br/>
+ - 🚀 Learning basics of the <strong>MERN Stack</strong> step by step<br/>
+ - 🛠️ Practicing <strong>Tailwind CSS</strong> for fast and modern layouts<br/>
+ - 📚 Focusing on writing <strong>clean, structured, and maintainable code</strong>
 </p>
 
 
