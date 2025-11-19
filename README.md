@@ -6,12 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hello+👋;I'm+Apurbo+Sarker" alt="Typing SVG" />
 </h1>
 
-<!-- Designation Typing Effect -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=30&center=true&vCenter=true&width=600&height=50&duration=3000&lines=Front-End+Developer+|+MERN+Stack+Enthusiast" alt="Typing SVG" />
-</h2>
-
-<br/> -->
+<!-- Static Designation -->
+<h3 align="center">Front-End Developer | MERN Stack Enthusiast</h3>
+<br/>
 
 <!-- ===================== -->
 <!--       ABOUT ME        -->
