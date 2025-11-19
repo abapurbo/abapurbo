@@ -91,23 +91,37 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
 </p>
 
----
 <!-- ===================== -->
 <!--       GITHUB STATS    -->
 <!-- ===================== -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 My Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abapurbo&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="380" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abapurbo&theme=dark&hide_border=true" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="760" />
-</p>
+<div align="center">
+  <a href="https://wakatime.com/@abapurbo">
+    <img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded" />
+  </a>
+</div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abapurbo&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&border_radius=10" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" width="100%">
+</div>
+
+<br/>
+
+<!-- Thanks Text -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+💼;Let's+Connect!;" />
+</h1>
+
 
 <!-- ===================== -->
 <!--     TOP REPOS         -->
