@@ -102,23 +102,21 @@
 <br/>
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180"/>
+
+  <!-- GitHub Top Languages & Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=abapurbo&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&border_radius=10" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Profile Summary Card -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" width="100%">
 </div>
 
 <br/>
-
-<!-- Thanks Text -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+💼;Let's+Connect!;" />
-</h1>
-
 
 <!-- ===================== -->
 <!--     TOP REPOS         -->
@@ -127,8 +125,8 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="760" />
 </p>
-
 <br/>
+
 
 <!-- ===================== -->
 <!--       THANK YOU       -->
