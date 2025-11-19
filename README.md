@@ -109,7 +109,7 @@
   <img 
     src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true"  
     alt="Top Contributed Repos"
-    width="760"
+    width="260"
   />
 
   <!-- Profile Summary Card -->
