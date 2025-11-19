@@ -1,11 +1,14 @@
 <!-- ===================== -->
 <!--       DESIGNATION      -->
 <!-- ===================== -->
-<h1 style="text-align: left; margin: 0; padding: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=false&vCenter=true&width=600&height=70&duration=3000&lines=Hello+👋;I'm+Apurbo+Sarker" alt="Typing SVG" />
-</h1>
-<h3 style="text-align: left; margin: 5px 0 20px 0;">Front-End Developer | MERN Stack Enthusiast</h3>
+h1 align="center">Hi 👋, I'm Apurbo Sarker</h1>
+<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps" />
+</p>
+
+---
 <!-- ===================== -->
 <!--        ABOUT ME       -->
 <!-- ===================== -->
