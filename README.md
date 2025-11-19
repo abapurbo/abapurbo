@@ -89,35 +89,43 @@
 <!-- ===================== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
-<div>
-   <!-- GitHub Streak -->
-   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" 
-    height="180" 
-    alt="GitHub Streak Stats"
-  />
-<!-- Most Used Languages -->
-   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
-    height="150" 
-    alt="Top Languages"
-  />
-</div>
+<h2 align="center">📊 My GitHub Stats</h2>
 
-  <!-- Top Contributed Repositories -->
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true"  
-    alt="Top Contributed Repos"
-    width="260"
-  />
+<div align="center" style="display: flex; flex-direction: column; gap: 30px; max-width: 900px; margin: auto;">
 
-  <!-- Profile Summary Card -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" 
-    width="100%" 
-    alt="Profile Summary Card"
-  />
+  <!-- Top Row: Streak + Top Languages -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" 
+      height="180" 
+      alt="GitHub Streak Stats"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
+      height="180" 
+      alt="Top Languages"
+    />
+  </div>
+
+  <!-- Middle Row: Top Contributed Repositories -->
+  <div style="display: flex; justify-content: center; width: 100%;">
+    <img 
+      src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true"  
+      alt="Top Contributed Repos"
+      width="760"
+      style="max-width: 100%; border-radius: 10px;"
+    />
+  </div>
+
+  <!-- Bottom Row: Profile Summary Card -->
+  <div style="display: flex; justify-content: center; width: 100%;">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" 
+      width="100%" 
+      alt="Profile Summary Card"
+      style="border-radius: 10px;"
+    />
+  </div>
 
 </div>
 
