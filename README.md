@@ -1,13 +1,13 @@
 
 
 <div align="center">
-   <img src="./bannerImg/github-banner-image.png"/>
+   <img src="./bannerImg/developer-banner.png"/>
 </div>
 <!-- ===================== -->
 <!--       DESIGNATION      -->
 <!-- ===================== -->
 <h1 align="center">Hi 👋, I'm Apurbo Sarker</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🚀 Frontend Developer | MERN Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps" />
