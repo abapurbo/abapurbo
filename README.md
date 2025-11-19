@@ -87,7 +87,6 @@
 <!-- ===================== -->
 <!--      GITHUB STATS     -->
 <!-- ===================== -->
-<h2 align="center">📊 My GitHub Stats</h2>
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
@@ -112,11 +111,11 @@
     <img 
       src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true"  
       alt="Top Contributed Repos"
-      width="460"
+      width="400"
       style="max-width: 100%; border-radius: 10px;"
     />
   </div>
-
+<br/>
   <!-- Bottom Row: Profile Summary Card -->
   <div style="display: flex; justify-content: center; width: 100%;">
     <img 
