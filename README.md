@@ -1,18 +1,18 @@
 <!-- ===================== -->
 <!--     DESIGNATION      -->
 <!-- ===================== -->
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://img.shields.io/badge/Front-End%20Developer-1E1E1E?style=for-the-badge&logo=react&logoColor=white" />
 </h2>
 
-<br/>
+<br/> -->
 
 <!-- ===================== -->
 <!--       ABOUT ME        -->
 <!-- ===================== -->
-<h2 align="center">👋 Hi, I'm Apurbo Sarker</h2>
+<h2 align="center">About Me</h2>
 
-<p align="center">
+<p align="justify">
   💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br>
   I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br>
   <br>
@@ -23,6 +23,16 @@
 </p>
 
 <br/>
+## 🔥 What I'm Currently Doing
+
+- 🌱 I’m learning and improving my **React** and **JavaScript** skills  
+- 🎨 I’m practicing **UI design** and building responsive user interfaces  
+- 🧩 I’m exploring how to create **reusable components** in React  
+- 💼 I’m working on small frontend projects to improve my problem-solving  
+- 🚀 I’m learning basics of the **MERN Stack** step by step  
+- 🛠️ I’m practicing Tailwind CSS to build fast and modern layouts  
+- 📚 I’m focusing on improving clean code and better folder structure  
+
 
 <!-- ===================== -->
 <!--       SOCIALS         -->
