@@ -1,65 +1,54 @@
 <!-- ===================== -->
-<!--     DESIGNATION      -->
+<!--       DESIGNATION      -->
 <!-- ===================== -->
-<!-- Name Typing Effect -->
 <h1 style="text-align: left; margin: 0; padding: 0;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=40&center=false&vCenter=true&width=600&height=70&duration=3000&lines=Hello+👋;I'm+Apurbo+Sarker" alt="Typing SVG" />
 </h1>
-
-<!-- Static Designation -->
-<h3 style="text-align: left; margin: 0; padding: 0;">Front-End Developer | MERN Stack Enthusiast</h3>
-<br/>
-
+<h3 style="text-align: left; margin: 5px 0 20px 0;">Front-End Developer | MERN Stack Enthusiast</h3>
 
 <!-- ===================== -->
-<!--       ABOUT ME        -->
+<!--        ABOUT ME       -->
 <!-- ===================== -->
-<!-- ====================== ABOUT ME SECTION ====================== -->
-
 <h2 align="left">About Me</h2>
-
 <p align="left">
   💻 <strong>Front-End Developer | MERN Stack Enthusiast</strong><br/>
   I specialize in building <strong>responsive, clean, and user-friendly web applications</strong> using 
-  <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/>
+  <strong>React.js, JavaScript, and Tailwind CSS</strong>.<br/><br/>
 
   💡 Skilled in the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, Node.js) and experienced in creating 
-  <strong>scalable, maintainable, and efficient solutions</strong>.<br/>
-  
-  🎯 Passionate about <strong>problem-solving, UX improvement, and learning new technologies</strong>.<br/>
+  <strong>scalable, maintainable, and efficient solutions</strong>.<br/><br/>
 
-  🌱 Currently enhancing skills with <strong>Firebase authentication, advanced React patterns, and real-world projects</strong>.<br/>
+  🎯 Passionate about <strong>problem-solving, UX improvement, and learning new technologies</strong>.<br/><br/>
+
+  🌱 Currently enhancing skills with <strong>Firebase authentication, advanced React patterns, and real-world projects</strong>.<br/><br/>
 
   🚀 Always eager to collaborate on <strong>innovative web applications</strong> and contribute to 
   <strong>open-source projects</strong>.
 </p>
-<br/>
 
-<!-- ====================== CURRENT WORK SECTION ====================== -->
-
+<!-- ===================== -->
+<!--   CURRENT WORK        -->
+<!-- ===================== -->
 <h2 align="left">🔥 What I'm Currently Doing</h2>
-
 <ul align="left">
   <li>🌱 Improving my <strong>React</strong> and <strong>JavaScript</strong> skills</li>
   <li>🎨 Practicing <strong>UI design</strong> and building responsive interfaces</li>
-  <li>🧩 Exploring how to create <strong>reusable components</strong> in React</li>
-  <li>💼 Working on small frontend projects to boost problem-solving</li>
-  <li>🚀 Learning basics of the <strong>MERN Stack</strong> step by step</li>
-  <li>🛠️ Practicing <strong>Tailwind CSS</strong> for fast and modern layouts</li>
-  <li>📚 Focusing on writing <strong>clean, structured, and maintainable code</strong></li>
+  <li>🧩 Exploring <strong>reusable components</strong> in React</li>
+  <li>💼 Working on small frontend projects to enhance problem-solving</li>
+  <li>🚀 Learning basics of the <strong>MERN Stack</strong></li>
+  <li>🛠️ Practicing <strong>Tailwind CSS</strong> for fast, modern layouts</li>
+  <li>📚 Writing <strong>clean, structured, maintainable code</strong></li>
 </ul>
 
-
-<br/>
-<!-- ====================== CONNECT WITH ME ====================== -->
-
+<!-- ===================== -->
+<!--     CONNECT WITH ME   -->
+<!-- ===================== -->
 <h2 align="left">🌐 Connect with Me</h2>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/apurbo-sarker-02ab4a34b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp; <!-- Adds spacing between badges -->
+  &nbsp;
   <a href="mailto:absarker238@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -67,15 +56,12 @@
   <a href="https://www.facebook.com/profile.php?id=61577638051677" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;
 </p>
-<br/>
 
 <!-- ===================== -->
-<!--       TECH STACK      -->
+<!--      TECH STACK       -->
 <!-- ===================== -->
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -94,44 +80,27 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
 </p>
-<br/>
 
 <!-- ===================== -->
-<!--       GITHUB STATS    -->
+<!--      GITHUB STATS     -->
 <!-- ===================== -->
 <h2 align="center">📊 My GitHub Stats</h2>
-<br/>
-
 <div align="center">
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180" />
-
-  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Profile Summary Card -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" width="100%" />
 </div>
 
-<br/>
-
 <!-- ===================== -->
-<!--     TOP REPOS         -->
+<!--      TOP REPOS        -->
 <!-- ===================== -->
 <h2 align="center">🔝 Top Contributed Repositories</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="760" />
 </p>
-<br/>
-
-
 
 <!-- ===================== -->
-<!--       THANK YOU       -->
+<!--        THANK YOU      -->
 <!-- ===================== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+💼;Let's+Connect!;" />
