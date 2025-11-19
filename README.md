@@ -95,6 +95,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
 </p>
 <br/>
+
 <!-- ===================== -->
 <!--       GITHUB STATS    -->
 <!-- ===================== -->
@@ -105,8 +106,8 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180" />
 
-  <!-- GitHub Top Languages & Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abapurbo&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&border_radius=10" height="180" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="150" />
 </div>
 
 <br/>
