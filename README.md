@@ -71,28 +71,27 @@
 <!--       TECH STACK      -->
 <!-- ===================== -->
 <h2 align="left">🛠️ Tech Stack & Tools</h2>
+
 <p align="left">
-  <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" / > -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
 </p>
 
-<br/>
-
+---
 <!-- ===================== -->
 <!--       GITHUB STATS    -->
 <!-- ===================== -->
