@@ -95,19 +95,19 @@ I am an enthusiastic and innovative <strong>Front-End Developer</strong> with a 
 <!-- ===================== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 30px; max-width: 900px; margin: auto;">
+<div align="center">
 
-  <!-- Top Row: Streak + Top Languages -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abapurbo&count_private=true&theme=github_dark&hide_border=true&border_radius=10" height="180" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&langs_count=3&layout=compact&theme=github_dark&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
-  </div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abapurbo&theme=github_dark&hide_border=true" height="180" />
 
-  <!-- Middle Row: Top Contributed Repositories -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" style="max-width:100%; border-radius:10px;" alt="Top Contributed Repos"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapurbo&layout=compact&langs_count=3&theme=github_dark&hide_border=true" height="180" />
 
-  <!-- Bottom Row: Profile Summary Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark&hide_border=true&border_radius=10" width="100%" style="border-radius:10px;" alt="Profile Summary Card"/>
+<br/><br/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=abapurbo&limit=5&theme=dark" width="400"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapurbo&theme=github_dark" width="100%"/>
 
 </div>
 
